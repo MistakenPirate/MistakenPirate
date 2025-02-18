@@ -1,6 +1,6 @@
 # Hi, I'm Sameer Kashyap 👋
 
-I'm a passionate Computer Science student at **Jorhat Engineering College** with a knack for building scalable, user-friendly applications. I love exploring new technologies and solving real-world problems through code. Currently, I'm diving deep into **Full-Stack Development** and **Cloud-Native Technologies**.
+I'm a passionate Computer Science student at **Jorhat Engineering College** with a knack for building scalable, user-friendly applications. I love exploring new technologies and solving real-world problems through code. Currently, I'm diving deep into **Full-Stack Development** , **Cloud-Native Technologies** and **System Design**.
 
 ---
 
