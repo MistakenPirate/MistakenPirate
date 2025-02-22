@@ -34,7 +34,7 @@ I'm a passionate Computer Science student at **Jorhat Engineering College** with
 ## 🌟 Achievements
 
 - **Winner of Frint Trekathon** 🏆  
-  Built an realtime AI video/voice chat app that bagged the 2nd position out of 600 teams.
+  Built an realtime AI video/voice chat app that bagged the 2nd position out of 350 teams.
 
 - **Winner of NITSHACK 6.0** 🏆  
   Built a QR-based campus security solution with my team, securing 1st place in the software category.
