@@ -48,7 +48,7 @@ I'm a passionate Computer Science student at **Jorhat Engineering College** with
 
 - **Email:** mistakenpirate38@gmail.com  
 - **LinkedIn:** [Sameer Kashyap](https://linkedin.com)  
-- **GitHub:** [mistakenpirate38](https://github.com)  
+- **GitHub:** [mistakenpirate](https://github.com)  
 
 
-⭐️ From [Sameer Kashyap](https://github.com/mistakenpirate38)
+⭐️ From [Sameer Kashyap](https://github.com/mistakenpirate)
