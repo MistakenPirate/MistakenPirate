@@ -1,5 +1,9 @@
+<div style="font-family: 'Courier New', monospace; text-align: center;">
+
 # Hi, I'm Sameer Kashyap 👋  
 `cs student` | `fullstack` | `devops`
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,3 +27,5 @@
 - **X:** [mistakenpirate](https://x.com/scaptera1)  
 
 ⭐️ From [Sameer Kashyap](https://github.com/mistakenpirate)
+
+</div>
