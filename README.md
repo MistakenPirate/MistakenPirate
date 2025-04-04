@@ -7,16 +7,9 @@
 
 ## 🛠️ Tech Stack
 
-### **Languages:**  
-`JavaScript` `TypeScript` `Python` `C/C++` 
-
-### **Frameworks & Libraries:**  
+`JavaScript` `TypeScript` `Python` `C/C++`  
 `React` `Next.js`
-
-### **Databases:**  
 `PostgreSQL` `MySQL` `MongoDB`
-
-### **Tools & Platforms:**  
 `Docker` `Kubernetes` `Git` `VS Code`
 
 ---
