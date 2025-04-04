@@ -8,10 +8,10 @@
 ## 🛠️ Tech Stack
 
 ### **Languages:**  
-`JavaScript` `TypeScript` `Python` `C/C++` `Go` *(Learning)*
+`JavaScript` `TypeScript` `Python` `C/C++` 
 
 ### **Frameworks & Libraries:**  
-`React` `React Native` `Next.js`
+`React` `Next.js`
 
 ### **Databases:**  
 `PostgreSQL` `MySQL` `MongoDB`
