@@ -17,7 +17,7 @@
 ## 📫 Let's Connect!  
 - **Email:** `mistakenpirate38@gmail.com`  
 - **LinkedIn:** [Sameer Kashyap](https://linkedin.com/in/sameer-kashyap)  
-- **X:** [mistakenpirate](https://x.com/scaptera1)  
+- **X:** [link](https://x.com/scaptera1)  
 
 ⭐️ From [Sameer Kashyap](https://github.com/mistakenpirate)
 
