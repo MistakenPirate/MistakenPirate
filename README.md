@@ -4,6 +4,10 @@
 `cs student` | `fullstack` | `devops`
 
 ---
+I love Computer Science, Software Development, Math and Entrepreneurship.
+Part-time CS Student, Part-time Developer.
+
+---
 
 ## 🛠️ Tech Stack
 
