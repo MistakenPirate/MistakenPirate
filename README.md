@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">A full-stack developer from India</h3>
+<h1 align="center">Sameer Kashyap</h1>
+<h3 align="center">Make/Break Computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistakenpirate&label=Profile%20views&color=0e75b6&style=flat" alt="mistakenpirate" /> </p>
 
-- 📫 How to reach me **mistakenpirate38@gmail.com**
-- 🌐 My Site: [scaptera.xyz](https://scaptera.xyz)
+- mail: **mistakenpirate38@gmail.com**
+- root: [scaptera.xyz](https://scaptera.xyz)
 
 
 <h3 align="left">Connect with me:</h3>
