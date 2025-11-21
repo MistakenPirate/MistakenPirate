@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistakenpirate&label=Profile%20views&color=0e75b6&style=flat" alt="mistakenpirate" /> </p>
 
 - mail: **mistakenpirate38@gmail.com**
-- root: [scaptera.xyz](https://scaptera.xyz)
+- root: [scaptera.site](https://scaptera.site)
 
 
 <h3 align="left">Connect with me:</h3>
